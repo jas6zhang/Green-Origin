@@ -1,0 +1,59 @@
+#map {
+  height: 500px;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0 10px;
+}
+
+.row {
+  padding: 10px 0;
+}
+
+.logo {
+  width: 10%;
+  height: 5%;
+  float: right;
+  margin-left: 10px;
+}
+
+.title {
+  color: #8FBC8F;
+  padding: 30px 0;
+  margin: 0;
+  font-family: 'Englebert', 'Arial';
+  font-size: 60px;
+  font-weight: 600;
+
+}
+
+.list-title {
+  color: #8FBC8F;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  font-family: 'Quicksand', 'Arial';
+  font-weight: 600;
+
+}
+
+.item-title {
+  float: left;
+  font-size: 15px;
+}
+
+
+.col-sm-3 {
+  padding-left: 0;
+}
+
+.groceryList {
+  text-align: center;
+}
+
+.gm-style-mtc {
+  display: none;
+}
